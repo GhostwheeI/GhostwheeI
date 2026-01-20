@@ -1,25 +1,25 @@
 # Ghostwheel
 
-Endpoint & DevOps engineer (20+ yrs) focused on Windows automation, reliability, and sysadmin-grade tooling.
+I build **Windows-first automation and operator tools** that reduce toil, shrink “alert fatigue,” and make systems easier to run.
 
-### What I build
-- Windows-first toolsets that reduce manual ops work and “alert fatigue”
-- Repeatable admin workflows (PowerShell-first; pragmatic about Python when it speeds delivery)
-- Utilities designed for messy real-world environments and safe defaults
+## Start here (30-second wins)
+- **SizeSpy** — find what’s eating disk space fast (no bloat, built-in Windows tools)
+- **Redterm** — a self-logging PowerShell terminal (history + session snapshots for reproducible ops)
+- **TheBatchCompendium** — curated batch utilities you actually use in real admin work
 
-### Current focus
-- Endpoint automation & fleet hygiene
-- Tooling that compresses operational noise into actionable output
-- AI-assisted workflows for scripting, triage, and reproducible ops
+> ⭐ If any of these save you time, starring the repo helps me prioritize maintenance and new features.
 
-### Featured projects
-- **TheBatchCompendium** — curated batch utilities for real sysadmin work
+## What you can expect from my repos
+- **Safe defaults** and clear output (built for operators)
+- **Minimal dependencies** (portable, practical)
+- Designed for **messy real environments**, not perfect labs
+
+## Featured projects
+- **TheBatchCompendium** — curated, searchable batch utilities for sysadmins
 - **Redterm** — PowerShell terminal with logging + environment snapshots
-- **AI-Memory-Persistence** — persistence/sync for AI coding agents
-- **SizeSpy** — fast disk usage insights without bloat
+- **AI-Memory-Persistence** — persistence/sync for AI coding agents across machines
+- **SizeSpy** — fast disk usage insights without heavy scanners
 
-### Principles
-Safe defaults • Minimal dependencies • Reproducible workflows • Clear output • Operator trust
-
----
-If you're building or operating Windows-heavy environments and want less toil and more signal, this is my home base.
+## Community
+- Use **Issues** for bugs/requests (screenshots/logs welcome)
+- If you want to contribute, check repos for **good first issue** labels
