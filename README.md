@@ -19,7 +19,3 @@ I build **Windows-first automation and operator tools** that reduce toil, shrink
 - **Redterm** — PowerShell terminal with logging + environment snapshots
 - **AI-Memory-Persistence** — persistence/sync for AI coding agents across machines
 - **SizeSpy** — fast disk usage insights without heavy scanners
-
-## Community
-- Use **Issues** for bugs/requests (screenshots/logs welcome)
-- If you want to contribute, check repos for **good first issue** labels
