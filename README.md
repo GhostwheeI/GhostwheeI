@@ -2,14 +2,14 @@
 
 I build **Windows-first automation and operator tools** that reduce toil, shrink “alert fatigue,” and make systems easier to run.
 
-## Start here (30-second wins)
+## Start here
 - **SizeSpy** — find what’s eating disk space fast (no bloat, built-in Windows tools)
 - **Redterm** — a self-logging PowerShell terminal (history + session snapshots for reproducible ops)
 - **TheBatchCompendium** — curated batch utilities you actually use in real admin work
 
 > ⭐ If any of these save you time, starring the repo helps me prioritize maintenance and new features.
 
-## What you can expect from my repos
+## What to expect
 - **Safe defaults** and clear output (built for operators)
 - **Minimal dependencies** (portable, practical)
 - Designed for **messy real environments**, not perfect labs
