@@ -1,7 +1,7 @@
 <h1 align="center">Ghostwheel</h1>
 <h4 align="center">Windows-first automation • Operator tools • Alert fatigue reduction</h4>
 
-    <br/>
+<br/>
 <div align="center">
   <!-- Subtle skill icons -->
   <a href="https://skillicons.dev">
