@@ -16,15 +16,6 @@
 ### 🛡️ Philosophy
 I build tools that make systems easier to run. My focus is on **safe defaults**, **minimal dependencies**, and practical solutions designed for the messy reality of production environments.
 <br/>
-<details>
-<summary><b>▸ Expand for Architectural Principles</b></summary>
-<br/>
-
-1. **Dependability over novelty:** If a script fails, it must fail safely and loudly.
-2. **Zero-friction portability:** Rely on native APIs and minimal external dependencies whenever possible.
-3. **Respect the operator:** Emit clear, actionable output. An operator reading logs at 3 AM should understand exactly what went wrong.
-
-</details>
 
 ---
 
