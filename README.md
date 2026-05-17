@@ -10,9 +10,7 @@
 
 ### ✦ Philosophy
 I build **Windows-first automation and operator tools** designed to reduce toil, shrink "alert fatigue," and make systems intuitively easier to run. My focus is on safe defaults, minimal dependencies, and tools built for messy, real-world environments—not perfect, isolated labs.
-
 <br/>
-
 ### ✦ The Toolbelt
 <div align="left">
   <!-- Subtle skill icons -->
@@ -20,9 +18,7 @@ I build **Windows-first automation and operator tools** designed to reduce toil,
     <img src="https://skillicons.dev/icons?i=windows,powershell,cs,dotnet,azure,bash,git,docker&theme=dark" alt="Tech Stack" />
   </a>
 </div>
-
 <br/>
-
 <details>
 <summary><b>▸ Expand for Architectural Principles</b></summary>
 <br/>
