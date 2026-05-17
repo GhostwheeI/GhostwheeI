@@ -1,21 +1,67 @@
-# Ghostwheel
+<div align="center">
+  <h3>Ghostwheel</h3>
+  <p><em>Designing resilient Windows systems and elegant automation.</em></p>
+  <a href="https://github.com/GhostwheeI">
+    <img src="https://komarev.com/ghpvc/?username=GhostwheeI&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+</div>
 
-I build **Windows-first automation and operator tools** that reduce toil, shrink “alert fatigue,” and make systems easier to run.
+---
 
-## Start here
-- **SizeSpy** — find what’s eating disk space fast (no bloat, built-in Windows tools)
-- **Redterm** — a self-logging PowerShell terminal (history + session snapshots for reproducible ops)
-- **TheBatchCompendium** — curated batch utilities you actually use in real admin work
+### ✦ Philosophy
+I build **Windows-first automation and operator tools** designed to reduce toil, shrink "alert fatigue," and make systems intuitively easier to run. My focus is on safe defaults, minimal dependencies, and tools built for messy, real-world environments—not perfect, isolated labs.
 
-> ⭐ If any of these save you time, starring the repo helps me prioritize maintenance and new features.
+<br/>
 
-## What to expect
-- **Safe defaults** and clear output (built for operators)
-- **Minimal dependencies** (portable, practical)
-- Designed for **messy real environments**, not perfect labs
+### ✦ Featured Blueprints
 
-## Featured projects
-- **TheBatchCompendium** — curated, searchable batch utilities for sysadmins
-- **Redterm** — PowerShell terminal with logging + environment snapshots
-- **AI-Memory-Persistence** — persistence/sync for AI coding agents across machines
-- **SizeSpy** — fast disk usage insights without heavy scanners
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/GhostwheeI/SizeSpy">🔍 SizeSpy</a></h4>
+      <p>Find what’s eating disk space fast. No bloat, utilizing built-in Windows tools for maximum efficiency and portability.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/GhostwheeI/Redterm">🔴 Redterm</a></h4>
+      <p>A self-logging PowerShell terminal. Captures history and session snapshots for reproducible ops and auditing.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/GhostwheeI/TheBatchCompendium">📚 TheBatchCompendium</a></h4>
+      <p>Curated, searchable batch utilities designed for the sysadmin trenches—tools you actually use in real admin work.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/GhostwheeI/AI-Memory-Persistence">🧠 AI-Memory-Persistence</a></h4>
+      <p>Persistence and synchronization for AI coding agents across machines, ensuring continuity in automated workflows.</p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+### ✦ The Toolbelt
+<div align="left">
+  <!-- Subtle skill icons -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows,powershell,cs,dotnet,azure,bash,git,docker&theme=dark" alt="Tech Stack" />
+  </a>
+</div>
+
+<br/>
+
+<details>
+<summary><b>▸ Expand for Architectural Principles</b></summary>
+<br/>
+
+1. **Dependability over novelty:** If a script fails, it must fail safely and loudly.
+2. **Zero-friction portability:** Rely on native APIs and minimal external dependencies whenever possible.
+3. **Respect the operator:** Emit clear, actionable output. An operator reading logs at 3 AM should understand exactly what went wrong.
+
+</details>
+
+---
+
+<div align="center">
+  <p><sub><em>⭐ If any of these repositories save you time, starring them helps me prioritize maintenance and direct future development.</em></sub></p>
+</div>
