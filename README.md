@@ -1,7 +1,6 @@
-<div align="center">
-  <h3>Ghostwheel</h3>
-  <p><em>Designing resilient Windows systems and elegant automation.</em></p>
-  <a href="https://github.com/GhostwheeI">
+<h1 align="center">Ghostwheel</h1>
+<h4 align="center">Windows-first automation • Operator tools • Alert fatigue reduction</h4>
+
     <br/>
 <div align="center">
   <!-- Subtle skill icons -->
