@@ -2,7 +2,13 @@
   <h3>Ghostwheel</h3>
   <p><em>Designing resilient Windows systems and elegant automation.</em></p>
   <a href="https://github.com/GhostwheeI">
-    <img src="https://komarev.com/ghpvc/?username=GhostwheeI&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+    <br/>
+<div align="left">
+  <!-- Subtle skill icons -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows,powershell,cs,dotnet,azure,bash,git,docker&theme=dark" alt="Tech Stack" />
+  </a>
+</div>
   </a>
 </div>
 
