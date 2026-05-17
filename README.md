@@ -3,7 +3,7 @@
   <p><em>Designing resilient Windows systems and elegant automation.</em></p>
   <a href="https://github.com/GhostwheeI">
     <br/>
-<div align="left">
+<div align="center">
   <!-- Subtle skill icons -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=windows,powershell,cs,dotnet,azure,bash,git,docker&theme=dark" alt="Tech Stack" />
