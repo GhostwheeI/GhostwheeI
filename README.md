@@ -10,10 +10,11 @@
   </a>
 </div>
 <h4 align="center">Windows-first automation • Operator tools • Alert fatigue reduction</h4>
+
 ---
-   <br/>
-### ✦ Philosophy
-I build **Windows-first automation and operator tools** designed to reduce toil, shrink "alert fatigue," and make systems intuitively easier to run. My focus is on safe defaults, minimal dependencies, and tools built for messy, real-world environments—not perfect, isolated labs.
+
+### 🛡️ Philosophy
+I build tools that make systems easier to run. My focus is on **safe defaults**, **minimal dependencies**, and practical solutions designed for the messy reality of production environments.
 <br/>
 <details>
 <summary><b>▸ Expand for Architectural Principles</b></summary>
