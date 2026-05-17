@@ -1,34 +1,21 @@
-<div align="center">
-  <h3>Ghostwheel</h3>
-  <p><em>Designing resilient Windows systems and elegant automation.</em></p>
-  <a href="https://github.com/GhostwheeI">
-    <br/>
-<div align="center">
-  <!-- Subtle skill icons -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,powershell,cs,dotnet,azure,bash,git,docker&theme=dark" alt="Tech Stack" />
-  </a>
-</div>
-  </a>
-</div>
+# Ghostwheel
 
----
-   <br/>
-### ✦ Philosophy
-I build **Windows-first automation and operator tools** designed to reduce toil, shrink "alert fatigue," and make systems intuitively easier to run. My focus is on safe defaults, minimal dependencies, and tools built for messy, real-world environments—not perfect, isolated labs.
-<br/>
-<details>
-<summary><b>▸ Expand for Architectural Principles</b></summary>
-<br/>
+I build **Windows-first automation and operator tools** that reduce toil, shrink “alert fatigue,” and make systems easier to run.
 
-1. **Dependability over novelty:** If a script fails, it must fail safely and loudly.
-2. **Zero-friction portability:** Rely on native APIs and minimal external dependencies whenever possible.
-3. **Respect the operator:** Emit clear, actionable output. An operator reading logs at 3 AM should understand exactly what went wrong.
+## Start here
+- **SizeSpy** — find what’s eating disk space fast (no bloat, built-in Windows tools)
+- **Redterm** — a self-logging PowerShell terminal (history + session snapshots for reproducible ops)
+- **TheBatchCompendium** — curated batch utilities you actually use in real admin work
 
-</details>
+> ⭐ If any of these save you time, starring the repo helps me prioritize maintenance and new features.
 
----
+## What to expect
+- **Safe defaults** and clear output (built for operators)
+- **Minimal dependencies** (portable, practical)
+- Designed for **messy real environments**, not perfect labs
 
-<div align="center">
-  <p><sub><em>⭐ If any of these repositories save you time, starring them helps me prioritize maintenance and direct future development.</em></sub></p>
-</div>
+## Featured projects
+- **TheBatchCompendium** — curated, searchable batch utilities for sysadmins
+- **Redterm** — PowerShell terminal with logging + environment snapshots
+- **AI-Memory-Persistence** — persistence/sync for AI coding agents across machines
+- **SizeSpy** — fast disk usage insights without heavy scanners
