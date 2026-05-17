@@ -13,7 +13,7 @@
 </div>
 
 ---
-
+   <br/>
 ### ✦ Philosophy
 I build **Windows-first automation and operator tools** designed to reduce toil, shrink "alert fatigue," and make systems intuitively easier to run. My focus is on safe defaults, minimal dependencies, and tools built for messy, real-world environments—not perfect, isolated labs.
 <br/>
