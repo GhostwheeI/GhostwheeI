@@ -9,13 +9,6 @@
 </div>
   </a>
 </div>
-<h4 align="center">Windows-first automation • Operator tools • Alert fatigue reduction</h4>
-
----
-
-### 🛡️ Philosophy
-I build tools that make systems easier to run. My focus is on **safe defaults**, **minimal dependencies**, and practical solutions designed for the messy reality of production environments.
-<br/>
 
 ---
 
