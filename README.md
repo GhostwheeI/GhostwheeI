@@ -10,8 +10,6 @@
   </a>
 </div>
 
----
-
 <div align="center">
   <p><sub><em>⭐ If any of my repositories save you time, starring them helps me prioritize maintenance and direct future development.</em></sub></p>
 </div>
