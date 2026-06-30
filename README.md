@@ -1,4 +1,4 @@
-<h1 align="center">Ghostwheel</h1>
+<h2 align="center">Ghostwheel</h1>
 
 <br/>
 <div align="center">
